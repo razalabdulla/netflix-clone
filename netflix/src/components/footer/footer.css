@@ -1,0 +1,19 @@
+.Footer{
+    width: 100%;
+    height: fit-content;
+    background-color:#222;
+}
+.copyright{
+    display: flex;
+    
+    justify-content: center;
+    color: darkgray;
+    padding-top: 15px;
+}
+.contact{
+    color: darkgrey;
+    cursor: pointer;
+    justify-content: center;
+    display: flex;
+    margin-top: -16px;
+}
